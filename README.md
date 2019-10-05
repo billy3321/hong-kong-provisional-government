@@ -7,6 +7,7 @@
 ![](cover.jpg)
 
 * [香港臨時政府宣言](香港臨時政府宣言.md)
+* [Declaration of the Hong Kong Provisional Government](declaration-of-the-hongk-ong-provisional-government.md)
 * [香港共和國臨時政府約法（草案）](香港共和國臨時政府約法（草案）.md)
 * [香港共和國立國宣言草案（修正十版）](香港共和國立國宣言草案（修正十版）.md)
 
